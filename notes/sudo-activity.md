@@ -1,6 +1,6 @@
 # 📄 `sudo-activity.md`
 
-```markdown
+
 # Privilege Escalation (sudo Activity)
 
 ## What I did
