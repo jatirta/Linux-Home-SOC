@@ -1,9 +1,7 @@
 
----
-
 # 📄 `recon-commands.md`
 
-```markdown
+
 # Reconnaissance Command Detection
 
 ## What I did
