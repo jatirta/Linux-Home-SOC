@@ -135,7 +135,7 @@ These commands are commonly used post-compromise to understand the system.
 Created a new account:
 
 ```bash
-sudo useradd backupadmin
+sudo useradd testadmin
 ```
 
 **Detection:**
@@ -249,14 +249,6 @@ By combining system logs with targeted audit rules, it is possible to identify b
 
 ---
 
-## 🚀 Next Steps
-
-* Integrate a SIEM (e.g., Wazuh or Splunk)
-* Add multiple machines for network-level monitoring
-* Expand audit rules for broader coverage
-* Simulate more advanced attack scenarios
-
----
 
 ## 💡 Notes
 
