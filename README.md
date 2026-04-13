@@ -1,5 +1,3 @@
-# Linux-Home-SOC 
-
 # Linux Security Monitoring Home Lab
 
 ## 📌 Overview
