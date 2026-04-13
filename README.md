@@ -231,7 +231,7 @@ This improves readability and focuses on relevant events.
 ## 📁 Project Structure
 
 ```
-linux-soc-lab/
+Linux-Home-SOC/
 ├── README.md
 ├── screenshots/
 ├── notes/
