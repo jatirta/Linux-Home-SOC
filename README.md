@@ -54,13 +54,9 @@ Custom audit rules were created to track specific categories of activity:
 ```bash
 -w /usr/bin/whoami -p x -k recon_commands
 -w /usr/bin/id -p x -k recon_commands
--w /bin/id -p x -k recon_commands
 -w /usr/bin/hostname -p x -k recon_commands
--w /bin/hostname -p x -k recon_commands
--w /usr/bin/cat -p x -k recon_commands
--w /bin/cat -p x -k recon_commands
 -w /usr/bin/ss -p x -k recon_commands
-
+-w /usr/bin/cat -p x -k recon_commands
 -w /usr/sbin/useradd -p x -k user_management
 -w /usr/bin/crontab -p x -k persistence
 ```
